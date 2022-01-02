@@ -1,5 +1,5 @@
 # SerilogTemplate
-A template for serilog. Console, file
+A template for serilog. Console, file. All configuration read from appsettings.json.
 
 <b>Package required.</b>  <br />
 	Microsoft.Extensions.DependencyInjection <br />
