@@ -1,5 +1,5 @@
 # SerilogTemplate
-A template for serilog. Console, file. All configuration read from appsettings.json.
+If your app need to send out log message, email with file attachment and all the log setting configurable in appsettings.json, this template using Serilog might able to help you.
 
 <b>Package required.</b>  <br />
 	Microsoft.Extensions.DependencyInjection <br />
